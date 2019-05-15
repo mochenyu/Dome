@@ -2,4 +2,20 @@
 <resources>
     <string name="app_name">First</string>
     <string name="bir">生日快乐</string>
+    <string name="btn">转换为华氏温度</string>
+    <string name="re">结果为：</string>
+    <string name="input">请输入摄氏度</string>
+    <string name="tm1">队伍A</string>
+    <string name="bt1">3分</string>
+    <string name="bt2">2分</string>
+    <string name="bt3">1分</string>
+    <string name="rs">重置</string>
+    <string name="fs">0</string>
+    <string name="tm2">队伍B</string>
+    <string name="btn_dollar">美元</string>
+    <string name="rmb">请输入人民币数额</string>
+    <string name="btn_euro">欧元</string>
+    <string name="btn_won">韩元</string>
+    <string name="btn_open">配置</string>
+    <string name="btn_save">保存</string>
 </resources>
